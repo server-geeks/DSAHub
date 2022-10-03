@@ -1,6 +1,9 @@
 # DSAHub
 ## Add your DSA Question Here
-This is the repository were you can contribute all your DSA Questions. Duplicate projects will not be merged. You can use this repository as your first hacktober pull request.
+- This is the repository were you can contribute all your DSA Questions.
+- Duplicate projects will not be merged. 
+- Add the link of your questions in the readme file of the specific folder and format is written in readme file.
+- You can use this repository as your first hacktober pull request.
 
 This Repository is specially for Hacktoberfest participants.
 
