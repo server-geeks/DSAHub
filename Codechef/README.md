@@ -1,3 +1,4 @@
 ## Codechef
 ### Add your question link here
-#### Format --> ' - [link name](https link) '
+
+FORMAT: ```- [Name of Question](link_here)```

@@ -10,7 +10,7 @@ This Repository is specially for Hacktoberfest participants.
 
 ## HOW TO CONTRIBUTE ? 👷 
 
-**1.** Fork [this](https://github.com/server-geeks/DSAHub) repository.
+**1.** Fork [this](https://github.com/<your_username>/DSAHub) repository.
 
 **2.** Clone the forked repository.
 
