@@ -1,5 +1,6 @@
 ## Miscellaneous
-### Add your question link here
+### Add your projects / questions link here
 
-FORMAT: ```- [Name of Question](link_here)```
+Snake Water and Gun Game in Python
+[Snake Water and Gun Game in Python](https://github.com/SachinDabhade/DSAHub/blob/main/Miscellaneous/SnakeWaterGun.py)
 
